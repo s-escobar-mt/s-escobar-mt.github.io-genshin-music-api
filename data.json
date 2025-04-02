@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "chara":"Venti",
+        "musicFile":"venti-theme.mp3",
+        "title": "Bard's Adventure",
+        "credits": "HOYO-Mix",
+        "img":"venti.png"
+    },
+    {
+        "id":2,
+        "chara":"Klee",
+        "musicFile":"audio/klee-theme.mp3",
+        "title": "Let's Go Crimson Knight!",
+        "credits": "HOYO-Mix",
+        "img":"klee.png"
+    },
+    
+    {
+        "id": 3,
+        "chara":"Xiangling",
+        "musicFile":"xiangling-theme.mp3",
+        "title": "Flaming Fry",
+        "credits": "HOYO-Mix",
+        "img":"xiangling.png"
+    },
+    {
+        "id":9,
+        "chara":"Eula",
+        "musicFile":"eula-theme.mp3",
+        "title": "Dance of Aphros",
+        "credits": "HOYO-Mix",
+        "img":"eula.png"
+    },
+    {
+        "id": 4,
+        "chara":"Wriothesley",
+        "musicFile":"wriothesley-theme.mp3",
+        "title": "Nippy Bout",
+        "credits": "HOYO-Mix",
+        "img":"wriothesley.png"
+    },
+    {
+        "id": 5,
+        "chara":"Neuvillette",
+        "musicFile":"neuvillette-theme.mp3",
+        "title": "Font of All Waters",
+        "credits": "HOYO-Mix",
+        "img":"neuvillette.png"
+    },
+    {
+        "id": 6,
+        "chara":"Furina",
+        "musicFile":"furina-theme.mp3",
+        "title": "All the World’s a Stage",
+        "credits": "HOYO-Mix",
+        "img":"furina.png"
+    },
+
+    {
+        "id": 7,
+        "chara":"Alhaitham",
+        "musicFile":"alhaitham-theme.mp3",
+        "title": "Think Before you Act",
+        "credits": "tnbee",
+        "img":"alhaitham.png"
+    },
+    {
+        "id": 8,
+        "chara":"Kaveh",
+        "musicFile":"kaveh-theme.mp3",
+        "title": "Empyrean Stairway",
+        "credits": "HOYO-Mix",
+        "img":"kaveh.png"
+    }
+]
